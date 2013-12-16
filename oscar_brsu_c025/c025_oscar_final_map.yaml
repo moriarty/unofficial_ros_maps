@@ -1,0 +1,7 @@
+image: /home/oscar/Documents/AT_WORK/maps/c025_oscar_final_map.pgm
+resolution: 0.020000
+origin: [-5.000000, -15.880000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
